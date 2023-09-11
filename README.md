@@ -19,5 +19,14 @@
   * Definir e visualizar esses valores
 * **Instanciar** objetos
 * **Métodos** (comportamentos) de um objeto
+  * Método Acessor
 * Entidades do mundo real em forma de objetos que possuem características (*atributos*) e comportamentos/ações (*métodos*).
+* **Encapsulamento**
+* **Modificadores de acesso/visibilidade**
+  * private
+  * public
+  * default (package-private)
+* **Get & Set**
+* Pacotes
+* Atalhos de navegação do Intellij
 
