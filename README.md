@@ -31,4 +31,8 @@
 * Pacotes
 * Atalhos de navegação do Intellij
 * **Herança**
+* @Override (Sobrescrita)
+* Anotações em Java (annotation)
+* Sobrecarga de Método
+* **Polimorfismo**
 
