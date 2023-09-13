@@ -13,6 +13,7 @@
 * O que é uma **Classe**
   * Estrutura de uma Classe
   * Como criar e por que isso é um conceito fundamental na orientação a objetos;
+  * O que é Super Classe e  Subclasse
   
 * O que são **Atributos**
   * As *"características"* (**Atributos**) de um objeto
@@ -29,4 +30,5 @@
 * **Get & Set**
 * Pacotes
 * Atalhos de navegação do Intellij
+* **Herança**
 
